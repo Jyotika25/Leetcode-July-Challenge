@@ -2,7 +2,6 @@ class Solution{
 public:
   vector<int> singleNumber3(vector<int>& nums){
   vector<int> output;
-  int n = nums.size();
   int temp = 0;
   int res1 =0;
   int res2 =0;

@@ -1,2 +1,4 @@
 # Leetcode-July-Challenge
-Solutions cpp :30 day leetcoding challenge (July)
+Solutions Cpp
+
+JULY 2020
